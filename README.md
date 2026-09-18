@@ -4,6 +4,7 @@ A small project for storing and previewing text snippets.
 
 Demo / site: https://kolumnin.github.io/TextSpaceStore/
 
+[html](https://kolumnin.github.io/TextSpaceStore/mobile-dnsfilter.html)
 ## Summary
 
 This repository (TextSpaceStore) provides a lightweight workspace for saving, organizing, and previewing text content. This README was updated to fix the project's GitHub Pages link and to provide a starter template with installation and usage instructions.
